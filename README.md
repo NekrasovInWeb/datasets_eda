@@ -10,3 +10,6 @@ Description of the data:
 | proj_name | folder |
 |-----------|--------|
 |New York City Airbnb Open Data|AB_NYC_2019|
+
+The repository will be gradually updated. The update.md file will contain brief insights into the data I found in the projects. 
+Thank you for stopping by to see my progress.
